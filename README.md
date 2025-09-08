@@ -65,19 +65,7 @@ Hey there! 👋 I'm Deft Luke, a full-stack developer who loves to create innova
 
 ---
 
-<!-- Social Networks -->
-<div align="center">
-  <h2>🔥 Social Networks</h2>
-  <br>
-  <a href="https://linkedin.com/in/muhammad-fiaz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@muhammad-fiaz"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://twitter.com/muhammadfiaz_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://codepen.io/muhammadfiaz"><img src="https://img.shields.io/badge/Codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
-  <a href="https://dev.to/muhammadfiaz"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
-  <a href="https://github.com/muhammad-fiaz"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://g.dev/muhammad_fiaz"><img src="https://img.shields.io/badge/Developer-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"/></a>
-  <a href="https://wakatime.com/@muhammadfiaz"><img src="https://img.shields.io/badge/WakaTime-%23107C10.svg?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/></a>
-</div>
+
 
 ---
 
