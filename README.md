@@ -1,101 +1,64 @@
-<!-- Banner -->
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/59163c56-55ac-4813-b4aa-b57082e708e6" width="100%" alt="Banner"/>
-
----
-
-<!-- Animated Welcome -->
 <div align="center">
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Deft+Luke+and+Welcome+to+my+Profile!" width="90%" />
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right"/>
+
+# Hi, I'm Luke Dean · DeftLuke
+
+**Full-stack developer · AI, automation & fintech**
+
+[![Live: Free LLM](https://img.shields.io/badge/Live-free.deftluke.online-22c55e?style=for-the-badge)](https://free.deftluke.online)
+[![Profile views](https://komarev.com/ghpvc/?username=DeftLuke&color=0891b2&style=for-the-badge)](https://github.com/DeftLuke)
+
 </div>
 
 ---
 
-<!-- Profile Views & Followers -->
+## About me
+
+I build production apps that combine **web platforms**, **AI/LLM routing**, and **automation** — from OpenAI-compatible API gateways to crypto trading dashboards and fintech stacks.
+
+- 🚀 **[Free LLM](https://free.deftluke.online)** — live OpenAI-compatible router stacking free LLM provider tiers
+- 📈 **Crypto trading stack** — React dashboard, Node strategy engine, Supabase, n8n, Telegram, Ollama
+- 🛠 **Fintech & SaaS** — payment platforms, admin panels, affiliate systems (TypeScript, Next.js, PHP)
+- 🤖 **AI tooling** — local LLM integrations, automation workflows, desktop utilities
+- 🤝 Open to collaboration on AI, trading, or full-stack product work
+
+---
+
+## Featured projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **free-llm** | Self-hosted LLM router — one `/v1` endpoint, smart failover across 16+ free providers | [Live](https://free.deftluke.online) · [Repo](https://github.com/DeftLuke/free-llm) |
+| **crypto-trading** | SMC futures trading: dashboard, strategy engine, Supabase, n8n, Telegram alerts | [Repo](https://github.com/DeftLuke/crypto-trading) |
+| **systems-lab-portfolio** | AI + fintech + automation portfolio (Next.js, Node, Supabase) | [Repo](https://github.com/DeftLuke/systems-lab-portfolio) |
+| **Duplicate-Cleaner-EXE** | Desktop duplicate image cleaner using perceptual hashing — portable, no install | [Repo](https://github.com/DeftLuke/Duplicate-Cleaner-EXE) |
+| **iconicdigital** | Marketing / digital agency site | [Live](https://iconicdigital.vercel.app) |
+
+---
+
+## Tech stack
+
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `Docker` · `Supabase` · `PostgreSQL` · `Tailwind CSS` · `OpenAI API` · `LLM routing` · `n8n` · `Telegram bots` · `Cloudflare`
+
+---
+
+## GitHub stats
+
 <div align="center">
-  <p><b>Profile Views:</b></p>
-  <img src="https://komarev.com/ghpvc/?username=muhammadfiaz" alt="Profile Views"/>
-  <br><br>
-  <a href="https://github.com/muhammad-fiaz" target="_blank">
-    <img src="https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social" alt="Follow on GitHub"/>
-  </a>
-  <br><br>
-  <a href="https://wakatime.com/@muhammadfiaz">
-    <img src="https://wakatime.com/badge/user/018b0e4a-91f9-4e8b-83fb-66d053611dc3.svg" alt="WakaTime"/>
-  </a>
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=DeftLuke&theme=tokyonight&hide_border=true)
+<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeftLuke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+<br><br>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeftLuke&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-<!-- Github Contributions Snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+**Connect**
+
+[GitHub](https://github.com/DeftLuke) · [Free LLM](https://free.deftluke.online) · [Holopin](https://holopin.io/@deftluke)
+
 </div>
-
----
-
-<!-- About Me -->
-<div align="center">
-  <h2>😎 Self-taught and Passionate about Coding!</h2>
-  <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="500px" alt="Pixel City"/>
-  <p>
-Hey there! 👋 I'm Deft Luke, a full-stack developer who loves to create innovative projects.  
-- ✨ I build free Apps & Web Applications in my spare time to sharpen my skills.  
-- 📚 Exploring Machine Learning & AI, including neural networks & LLMs.  
-- 🤝 Open to collaboration—let’s make something awesome together!  
-- 🔧 Experienced in multiple languages & technologies.  
-- 📬 Reach out via <a href="mailto:contact@muhammadfiaz.com">email</a> for collabs or project ideas.
-  </p>
-</div>
-
----
-
-<!-- Pets -->
-<div align="center">
-  <h2>🐱 My Pets</h2>
-  <a href="https://github.com/muhammad-fiaz">
-    <img src="https://render.gitanimals.org/lines/{muhammad-fiaz}" width="800" height="300"/>
-  </a>
-</div>
-
----
-
-
-
----
-
-<!-- Open-Source Badges -->
-<div align="center">
-  <h2>⭐ Open-Source Badges</h2>
-  [![Holopin](https://holopin.me/deftluke)](https://holopin.io/@deftluke)
-</div>
-
----
-
-
-
-
-<!-- Tech Stack -->
-<div align="center">
-  <h2>🔥 Tech Stacks</h2>
-  <br>
-  ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15)
-</div>
-
----
-
-<!-- Github Stats -->
-<div align="center">
-  <h2>🏆 GitHub Stats</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-fiaz&theme=tokyonight" alt="GitHub Trophies"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=muhammad-fiaz&theme=tokyonight" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api
