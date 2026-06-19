@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Md Shamim Siddik · DeftLuke
+# Hi, I'm Shamim Siddik · DeftLuke
 
 **Full-stack developer · AI, automation & fintech**
 
 [![Live: Free LLM](https://img.shields.io/badge/Live-free.deftluke.online-22c55e?style=for-the-badge)](https://free.deftluke.online)
-[![Profile views](https://komarev.com/ghpvc/?username=DeftLuke&color=0891b2&style=for-the-badge)](https://github.com/DeftLuke)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-programmer--shamim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmer-shamim/)
+[![Profile views](https://img.shields.io/ghpvc/?username=DeftLuke&color=0891b2&style=for-the-badge)](https://github.com/DeftLuke)
 
 </div>
 
@@ -20,6 +21,8 @@ I build production apps that combine **web platforms**, **AI/LLM routing**, and 
 - 🛠 **Fintech & SaaS** — payment platforms, admin panels, affiliate systems (TypeScript, Next.js, PHP)
 - 🤖 **AI tooling** — local LLM integrations, automation workflows, desktop utilities
 - 🤝 Open to collaboration on AI, trading, or full-stack product work
+
+**LinkedIn:** [linkedin.com/in/programmer-shamim](https://www.linkedin.com/in/programmer-shamim/)
 
 ---
 
@@ -59,6 +62,6 @@ I build production apps that combine **web platforms**, **AI/LLM routing**, and 
 
 **Connect**
 
-[GitHub](https://github.com/DeftLuke) · [Free LLM](https://free.deftluke.online) · [Holopin](https://holopin.io/@deftluke)
+[LinkedIn](https://www.linkedin.com/in/programmer-shamim/) · [GitHub](https://github.com/DeftLuke) · [Free LLM](https://free.deftluke.online) · [Holopin](https://holopin.io/@deftluke)
 
 </div>
