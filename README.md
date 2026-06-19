@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Luke Dean · DeftLuke
+# Hi, I'm Md Shamim Siddik · DeftLuke
 
 **Full-stack developer · AI, automation & fintech**
 
